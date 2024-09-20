@@ -1,0 +1,22 @@
+episode 20    17.09.2024 https://youtu.be/dddL-62a7lE?si=hp36LS0Pr-MI4qEI
+-----------
+1.Feature module
+
+  payments 
+  users 
+  airlines
+  invoices
+2.Lazy loading
+-------------------
+ --on demand 
+ --home page 
+   users
+--cart /checkout page 
+    payments
+
+    3.shared modules
+    --------------------
+    header 
+    authentication
+    authorization
+    footer
